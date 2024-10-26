@@ -1,4 +1,5 @@
 # Local thickness estimation
+The Python package for the local thickness is taken from [Link](https://github.com/vedranaa/local-thickness)
 
 ![Local_Thickness](https://github.com/user-attachments/assets/9ae05380-dc0b-404d-907c-67e791031712)
 
