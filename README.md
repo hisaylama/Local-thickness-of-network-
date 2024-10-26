@@ -8,5 +8,7 @@
 ---
 ### Output
 
+![Local_Thickness_Network](https://github.com/user-attachments/assets/bd504c60-369b-4cb3-b159-960609f3fd10)
 
+---
 **References:** Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops
